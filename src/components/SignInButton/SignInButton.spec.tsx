@@ -2,7 +2,6 @@ import { render, screen } from '@testing-library/react'
 import { SignInButton } from '.'
 import { useSession } from 'next-auth/react'
 import {mocked} from 'ts-jest/utils'
-import { debug } from 'console'
 
 
 jest.mock('next-auth/react')
