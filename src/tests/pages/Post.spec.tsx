@@ -75,14 +75,14 @@ describe('Home Page', () => {
 
         expect(response).toEqual(
             expect.objectContaining({
-                props: {
-                    post: {
-                      slug: 'my-new-post',
-                      title: 'My new post',
-                      content: '<p>Post content</p>',
-                      updatedAt: '06 de junho de 2022'
-                    }
-                  }
+               props:{
+                   post:{
+                    slug: 'my-new-post',
+                    title: 'My new Post',
+                    content: '<p>Post content</p>',
+                    updatedAt: '06 de junho de 2022',
+                   }
+               }
             })
         )
     })
