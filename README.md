@@ -9,7 +9,15 @@ npm run dev
 yarn dev
 ```
 
-Esse projeto e um blog feito com NextJs, stripe, prismicCMS,e faunaDB.
+Esse projeto e um blog, onde é possivel cadastrar novos post atraves de um CMS, apenas usuarios com inscrição ativa tem acesso aos post.
+
+##🚀 Tecnologias
+NextJs
+stripe
+prismicCMS
+faunaDB
+Sass
+
 
 <img src="./public/images/post-ignews.PNG" alt="">
 <img src="./public/images/checkout-stripe.PNG" >
