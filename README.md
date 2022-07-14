@@ -11,6 +11,6 @@ yarn dev
 
 Esse projeto e um blog feito com NextJs, stripe, prismicCMS,e faunaDB.
 
-<img src="./public/post-ignews.PNG" alt="">
-<img src="./public/checkout-ignews.PNG" >
- <img src="./public/home-ignews.PNG" alt=""> 
+<img src="./public/post-ignews.png" alt="">
+<img src="./public/checkout-stripe.png" >
+ <img src="./public/home-ignews.png" alt=""> 
